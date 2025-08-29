@@ -5,5 +5,5 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 # INTEGRANTES DEL GRUPO
 ![](https://github.com/wiwi1708/KawsayTech/blob/650f990813b83b2a5b21284d1d73cf8a88cf9332/Imagenes/1b5ead49-9e59-40db-81d5-7fcb32d93bef.jpg)
 # DESCRIPCIÓN DE LOS INTEGRANTES DEL GRUPO
-### Wilmer Zapata
+### 1) Wilmer Zapata
 ![](https://github.com/wiwi1708/KawsayTech/blob/8d9fa525b9fe0638083aa615f2bdd8a81d8d20df/Imagenes/Wilmer%20Zapata.jpeg)
