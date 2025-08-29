@@ -9,3 +9,4 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 ![](https://github.com/wiwi1708/KawsayTech/blob/8d9fa525b9fe0638083aa615f2bdd8a81d8d20df/Imagenes/Wilmer%20Zapata.jpeg)
 #### EDAD: 18
 #### PASATIEMPOS: Escuchar música, leer, aprender. Me gusta la psicología. Mi interés en el área de Ingeniería Biomédica es biomecánica.
+![](https://github.com/wiwi1708/KawsayTech/blob/6f20faa959751cc5fa67f65eb2e54c5f86d1a551/Imagenes/6bfbf098f6d6bbf73fb23ebea70007bd.jpg)
