@@ -15,4 +15,4 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 ![](https://github.com/wiwi1708/KawsayTech/blob/e5785e29e755a3f72c676c5a0be3ad7eb39e71e2/Imagenes/ok.jpg)
 #### EDAD: 18
 #### Swiftie ☆
-#### PASATIEMPOS: Leer, escuchar música y hacer apuntes bonitos
+#### PASATIEMPOS: Leer, escuchar música, viajar y hacer apuntes bonitos
