@@ -23,5 +23,4 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 ![](https://github.com/wiwi1708/KawsayTech/blob/239f76174be28f558864c165c58c17bc557c7d66/Imagenes/RV.jpg)
 #### EDAD: 18
 #### Moratista⭐ y Biomédico🦾, los números mi religión!🙏
-#### PASATIEMPOS: Escuchar música, Deportes (Voley y Fútbol), Team Gatos🐈, Team Frío❄️☃️ y Apasionado de la fotografía 
-![](https://www.instagram.com/_rodrix.v/)
+#### PASATIEMPOS: Escuchar música, Deportes (Voley y Fútbol), Team Gatos🐈, Team Frío❄️☃️ y Apasionado de la fotografía. (https://www.instagram.com/_rodrix.v/)
