@@ -8,7 +8,7 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 ### 1) Wilmer Zapata
 ![](https://github.com/wiwi1708/KawsayTech/blob/8d9fa525b9fe0638083aa615f2bdd8a81d8d20df/Imagenes/Wilmer%20Zapata.jpeg)
 #### EDAD: 18
-#### PASATIEMPOS: Escuchar música, leer, aprender. Me gusta la psicología. Mi interés en el área de Ingeniería Biomédica es biomecánica.
+#### PASATIEMPOS: Escuchar música, leer, aprender. Me gusta la psicología. Mi interés en el área de Ingeniería Biomédica es biomecánica. Hacerle bullying a Yesenia.
 ### 2) Yacelly Palacios
 ![](https://github.com/wiwi1708/KawsayTech/blob/8d9fa525b9fe0638083aa615f2bdd8a81d8d20df/Imagenes/Wilmer%20Zapata.jpeg)
 #### EDAD: 18
