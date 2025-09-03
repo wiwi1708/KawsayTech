@@ -15,7 +15,6 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 
 ![](https://github.com/wiwi1708/KawsayTech/blob/e5785e29e755a3f72c676c5a0be3ad7eb39e71e2/Imagenes/ok.jpg)
 #### EDAD: 17
-#### Swiftie soñadora 🍋‍🟩
 #### PASATIEMPOS: Leer, escuchar música, viajar y hacer apuntes bonitos.
 
 > 3) Rodrigo Vega
@@ -28,6 +27,5 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 > 4) Arantxa Iturriaga
 
 ![](https://github.com/wiwi1708/KawsayTech/blob/d5f8592df9baecbc4ad09ac6f9797aa01ac7d044/Imagenes/ara.jpg)
-#### Edad:
-#### PASATIEMPOS: 
+#### Tengo 21 años y mantengo un fuerte interés por la lectura y la participación activa en diversas actividades. Actualmente estudio Ingeniería Biomédica con la intención de especializarme en Ingeniería Clínica. Elegí esta carrera porque creo firmemente en el poder de la innovación para generar soluciones prácticas y accesibles frente a los desafíos actuales en el ámbito de la salud. Me motiva contribuir con ideas y tecnologías que mejoren la calidad de vida de las personas, combinando el conocimiento técnico con un enfoque humano y funcional.
 
