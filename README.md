@@ -26,7 +26,7 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 
 > 4) Arantxa Iturriaga
 
-![](https://github.com/wiwi1708/KawsayTech/blob/239f76174be28f558864c165c58c17bc557c7d66/Imagenes/RV.jpg)
+![](https://github.com/wiwi1708/KawsayTech/blob/d5f8592df9baecbc4ad09ac6f9797aa01ac7d044/Imagenes/ara.jpg)
 #### Edad:
 #### PASATIEMPOS: 
 
