@@ -14,9 +14,8 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 > 2) Yacelly Palacios
 
 ![](https://github.com/wiwi1708/KawsayTech/blob/e5785e29e755a3f72c676c5a0be3ad7eb39e71e2/Imagenes/ok.jpg)
-#### EDAD: 18
-#### Swiftie ☆
-#### PASATIEMPOS: Leer, escuchar música, viajar y hacer apuntes bonitos.
+#### EDAD: 17
+#### Swiftie ☆ PASATIEMPOS: Leer, escuchar música, viajar y hacer apuntes bonitos.
 
 > 3) Rodrigo Vega
 
@@ -24,3 +23,10 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 #### EDAD: 18
 #### Moratista⭐ y Biomédico🦾, los números mi religión!🙏
 #### PASATIEMPOS: Escuchar música🎧, Deportista (Voley y Fútbol), Team Gatos🐈, Team Frío❄️☃️ y Apasionado de la fotografía📸. (https://www.instagram.com/_rodrix.v/)
+
+> 4) Arantxa Iturriaga
+
+![](https://github.com/wiwi1708/KawsayTech/blob/239f76174be28f558864c165c58c17bc557c7d66/Imagenes/RV.jpg)
+#### Edad:
+#### PASATIEMPOS: 
+
