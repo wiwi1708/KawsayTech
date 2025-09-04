@@ -30,5 +30,6 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 #### Tengo 21 años y mantengo un fuerte interés por la lectura y la participación activa en diversas actividades. Actualmente estudio Ingeniería Biomédica con la intención de especializarme en Ingeniería Clínica. Elegí esta carrera porque creo firmemente en el poder de la innovación para generar soluciones prácticas y accesibles frente a los desafíos actuales en el ámbito de la salud. Me motiva contribuir con ideas y tecnologías que mejoren la calidad de vida de las personas, combinando el conocimiento técnico con un enfoque humano y funcional.
 
 > 5) Daniela Peña 
-
-#### Tengo 18 años. Me gusta mirar series, leer, escuchar música y la repostería. Además, me interesa seguir la carrera de Ingeniería Biomédica, en la cual me gustaría especializarme en el área de tejidos y biomateriales.
+![](https://github.com/wiwi1708/KawsayTech/blob/adf9d30a54a2b9455355f7175f7ffb11927a1937/Imagenes/5028633747397914181.jpg)
+#### EDAD: 18 años
+#### PASATIEMPOS: Me gusta mirar series, leer, escuchar música y la repostería. Además, me interesa seguir la carrera de Ingeniería Biomédica, en la cual me gustaría especializarme en el área de tejidos y biomateriales.
