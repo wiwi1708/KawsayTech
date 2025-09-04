@@ -34,3 +34,9 @@ Somos jovenes estudiantes de Ingeniería Biomédica PUCP-UPCH, del horario B201 
 ![](https://github.com/wiwi1708/KawsayTech/blob/adf9d30a54a2b9455355f7175f7ffb11927a1937/Imagenes/5028633747397914181.jpg)
 #### EDAD: 18 años
 #### PASATIEMPOS: Me gusta mirar series, leer, escuchar música y la repostería. Además, me interesa seguir la carrera de Ingeniería Biomédica, en la cual me gustaría especializarme en el área de tejidos y biomateriales.
+
+> 6) Mariangel Bastidas
+
+
+#### EDAD: 17 años
+#### PASATIEMPOS: Leer novelas de fantasía, escuchar podcast de misterio, escribir e investigar sobre tecnologías nuevas.
